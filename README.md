@@ -20,4 +20,4 @@
 
 ## ERD
 - [dbDiagram](https://dbdiagram.io/d/646e3834dca9fb07c4b36f64)
-<img width="500" alt="Chinook ERD made with dbDiagram" src="https://user-images.githubusercontent.com/114124374/240959413-e5897141-ba97-4f3c-b51a-e8ceca16f80f.png">
+<img width="1000" alt="Chinook ERD made with dbDiagram" src="https://user-images.githubusercontent.com/114124374/240959413-e5897141-ba97-4f3c-b51a-e8ceca16f80f.png">
