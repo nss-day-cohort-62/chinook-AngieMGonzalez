@@ -5,8 +5,7 @@
 
 SELECT
   c.CustomerId,
-  c.FirstName,
-  c.LastName,
+  c.FirstName || ' ' || c.LastName AS "full name",
   c.Country
 FROM Customer c
 WHERE Country != 'USA';
