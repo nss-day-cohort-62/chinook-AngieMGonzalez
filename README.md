@@ -24,3 +24,4 @@
 
 - [COUNT](https://www.sqlitetutorial.net/sqlite-count-function/)
 - [SUM](https://www.sqlitetutorial.net/sqlite-sum/)
+-[GROUP BY](https://www.sqlite.org/lang_select.html#resultset)
