@@ -23,3 +23,4 @@
 <img width="1000" alt="Chinook ERD made with dbDiagram" src="https://user-images.githubusercontent.com/114124374/240959413-e5897141-ba97-4f3c-b51a-e8ceca16f80f.png">
 
 - [COUNT](https://www.sqlitetutorial.net/sqlite-count-function/)
+- [SUM](https://www.sqlitetutorial.net/sqlite-sum/)
