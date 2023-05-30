@@ -25,3 +25,4 @@
 - [COUNT](https://www.sqlitetutorial.net/sqlite-count-function/)
 - [SUM](https://www.sqlitetutorial.net/sqlite-sum/)
 -[GROUP BY](https://www.sqlite.org/lang_select.html#resultset)
+- [MAX function](https://www.sqlite.org/lang_aggfunc.html#maxggunc) on a [subquery](https://beginner-sql-tutorial.com/sql-subquery.htm)
